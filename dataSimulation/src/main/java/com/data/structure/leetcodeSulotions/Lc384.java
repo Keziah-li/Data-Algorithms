@@ -1,9 +1,13 @@
+package com.data.structure.leetcodeSulotions;
+
+import java.util.Random;
+
 public class Lc384 {
     int[] nums; // 保存当前数组
     int[] original; // 保存原始数组
 
     // 构造函数，初始化对象
-    public Solution(int[] nums) {
+    public Lc384(int[] nums) {
         this.nums = nums; // 保存传入的数组
         this.original = new int[nums.length]; // 创建一个与 nums 长度相同的数组
         System.arraycopy(nums, 0, original, 0, nums.length); // 将 nums 的内容复制到 original

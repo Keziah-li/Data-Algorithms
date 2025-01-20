@@ -1,3 +1,5 @@
+package com.data.structure.leetcodeSulotions;
+
 import java.util.*;
 public class Lc56 {
     public int[][] merge(int[][] intervals) {

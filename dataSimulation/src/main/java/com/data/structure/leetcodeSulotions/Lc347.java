@@ -1,4 +1,4 @@
-package main.data;
+package com.data.structure.leetcodeSulotions;
 import java.util.*;
 // TopKFrequentElements
 public class Lc347  {

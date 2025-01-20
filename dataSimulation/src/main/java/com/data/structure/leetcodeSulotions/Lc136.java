@@ -1,3 +1,5 @@
+package com.data.structure.leetcodeSulotions;
+
 import java.util.*;
 public class Lc136 {
     public int singleNumber(int[] nums) {
