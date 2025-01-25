@@ -33,7 +33,7 @@ public class Lc347  {
     }
 
     public static void main(String[] args) {
-        TopKFrequentElements solution = new TopKFrequentElements();
+        Lc347 solution = new Lc347();
         int[] nums = {1, 1, 1, 2, 2, 3};
         int k = 2;
         int[] result = solution.topKFrequent(nums, k);
